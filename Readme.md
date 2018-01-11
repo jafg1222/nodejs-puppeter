@@ -1,4 +1,4 @@
-# REST API Node.js
+# Node.js - Puppeteer
 
 This a basic use of puppeteer
 
